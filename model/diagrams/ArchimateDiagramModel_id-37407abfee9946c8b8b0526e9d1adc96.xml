@@ -84,7 +84,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9c55abf3300e4d2fb0b5d6544826fa37"
-      targetConnections="id-5bd43377e4ea4768a5a739ee5a180eb6 id-7a71fcb1fc2341faa86bf68268af8098 id-01118c3fc2a54d1db5851fe51347cf8d">
+      targetConnections="id-5bd43377e4ea4768a5a739ee5a180eb6 id-01118c3fc2a54d1db5851fe51347cf8d id-7a71fcb1fc2341faa86bf68268af8098">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-e50ccb1c9cb849639e1e5dba368c545c"
@@ -209,21 +209,21 @@
       id="id-d30862a483de49508c0010e0c8a0a24d">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-7a71fcb1fc2341faa86bf68268af8098"
-        source="id-d30862a483de49508c0010e0c8a0a24d"
-        target="id-9c55abf3300e4d2fb0b5d6544826fa37">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_id-a474f5f69c994a56b24fc0c709cd2e8e.xml#id-a474f5f69c994a56b24fc0c709cd2e8e"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-870c0c112ff14a32b23d8cf521caed7d"
         source="id-d30862a483de49508c0010e0c8a0a24d"
         target="id-248bf8ba2d5e422da211d20cd7f27fb9">
       <archimateRelationship
           xsi:type="archimate:AssignmentRelationship"
           href="AssignmentRelationship_id-33ca946a72004d05bb3a57f0398dd805.xml#id-33ca946a72004d05bb3a57f0398dd805"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-7a71fcb1fc2341faa86bf68268af8098"
+        source="id-d30862a483de49508c0010e0c8a0a24d"
+        target="id-9c55abf3300e4d2fb0b5d6544826fa37">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-a474f5f69c994a56b24fc0c709cd2e8e.xml#id-a474f5f69c994a56b24fc0c709cd2e8e"/>
     </sourceConnections>
     <bounds
         x="732"
