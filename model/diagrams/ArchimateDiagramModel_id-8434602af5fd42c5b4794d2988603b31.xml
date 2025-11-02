@@ -53,7 +53,7 @@
     <bounds
         x="1020"
         y="120"
-        width="120"
+        width="145"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ValueStream"
@@ -82,8 +82,8 @@
           href="RealizationRelationship_id-4f962ef8b87a4f7eb1b2689173659774.xml#id-4f962ef8b87a4f7eb1b2689173659774"/>
     </sourceConnections>
     <bounds
-        x="564"
-        y="492"
+        x="576"
+        y="480"
         width="120"
         height="55"/>
     <archimateElement
@@ -402,8 +402,8 @@
           href="TriggeringRelationship_id-525ba32e9393454396e3e52e010cb7b7.xml#id-525ba32e9393454396e3e52e010cb7b7"/>
     </sourceConnections>
     <bounds
-        x="-36"
-        y="488"
+        x="-37"
+        y="480"
         width="120"
         height="55"/>
     <archimateElement
@@ -433,8 +433,8 @@
           href="TriggeringRelationship_id-91cab2d30fd341758aa9cb99f1b02c08.xml#id-91cab2d30fd341758aa9cb99f1b02c08"/>
     </sourceConnections>
     <bounds
-        x="144"
-        y="488"
+        x="143"
+        y="480"
         width="120"
         height="55"/>
     <archimateElement
@@ -464,8 +464,8 @@
           href="FlowRelationship_id-c5a8ee8f83f342cda99b55be442f57ab.xml#id-c5a8ee8f83f342cda99b55be442f57ab"/>
     </sourceConnections>
     <bounds
-        x="313"
-        y="488"
+        x="312"
+        y="480"
         width="120"
         height="55"/>
     <archimateElement
